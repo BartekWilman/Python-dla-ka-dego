@@ -1,0 +1,6 @@
+W 1 rozdziale jedno z zadań wymagało stworzenie błędnego programu,
+dlatego te zadanie nie zostało przeze mnie udostępnione.
+Kolejne zadanie wymagało napisania programu wyświetlającego 
+moję imię i nazwisko, a także komunikat, że po naciśnięciu ENTER program 
+zostanie zamknięty. Ostatnie zadanie polegało na napisaniu ulubionego cytatu
+oraz imienia i nazwiska autora tego cytatu.
