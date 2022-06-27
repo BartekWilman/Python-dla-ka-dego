@@ -1,0 +1,7 @@
+W tym rozdziale należało napisać program pytający użytkownika
+o jego dwa ulubione smaki, po to by następnie zostałay połączone (ulubione smaki).
+Następne zadani polegało na stworzeniu prostego kalkulatora napiwku,
+obliczającego kwotę na 15 i 20 procent. (napiwek)
+Ostatni program oblicza kwotę brutto samochodu, w zależności 
+od podanej przez użytkownika kwoty netto. Niektóre opłaty są
+procentowe, inne stałe. (sprzedawca samochodów)
