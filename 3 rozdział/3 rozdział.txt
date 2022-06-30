@@ -1,0 +1,9 @@
+W tym rozdziale, pierwsze zadanie polegało na stworzeniu programu
+symulującego ciasteczko z wróżbą. po otworzeniu programu wyświetli się
+jedna z pięciu wróżb. (ciastko z wróżbą)
+Kolejnym zadaniem był program, który samodzielnie rzuca sto razy monetą
+i zlicza ile razy wypadła reszka, a ile razy wypadł orzeł. (rzut monetą)
+Trzecie zadanie polegało na zmodyfikowaniu programu z książki "jaka to liczba"
+tak, aby gracz miał ograniczoną ilość prób odgadnięcia. (odgadnij jaka to liczba)
+Ostatnie zadanie, to gra w której gracz wymyśla liczbę z przedziału
+od 1 do 100, a zadaniem komputera jest odgadnięcie tej liczby.
