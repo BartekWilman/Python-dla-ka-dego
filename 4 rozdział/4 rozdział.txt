@@ -1,0 +1,10 @@
+Zadania z tego rozdziału wymusiły na mnie korzystanie z komentarzy,
+o ile program umożliwiający wprowadzenie początku, końca oraz wielkości odstępu między liczbami(licznik),
+a także program odwzorujący podany komunikat, ale w odwrotnej  kolejności znaków (odwrócony komunikat),
+były bardzo krótkie, to zadanie polegające na ulepszeniu programu "wymieszane litery",
+poprzez dodanie do nich punktacji oraz podpowiedzi wymagało użycia komentarzy,
+celem ułatwienia pracy na kodzie. Chociaż zadanie polegało tylko na ulepszeniu istniejącego kodu,
+w ramach praktyki napisałem całość od 0 (wymieszane litery). Ostanie zadanie polegało na stworzeniu programu, losującego słowo,
+podające długość wylosowanego słowa oraz danie możliwość graczowi zapytania o 5 znaków, czy zawierają się w tym łańcuchu.
+Na sam koniec program pytał o te słowo (zgadywanie słowa). Pozwoliłem sobie skorzystać w tym zadaniu z części kodu,
+którą napisałem na potrzeby poprzedniego zadania.
