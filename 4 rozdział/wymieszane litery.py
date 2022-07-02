@@ -35,6 +35,7 @@ print("\n\n\n\nZgadnij, co to za bóg:", jumble.upper())
 guess = input("Twoja odpowiedź to: ")
 
 if guess == correct:
+    score = len(correct) * 100 - (hint * 10)
     print("Zgadza się")
     print("Poprawna odpowiedź to", correct, ", a w trakcie gry uzyskałeś", score, "punktów\a")
 
