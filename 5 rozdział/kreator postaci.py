@@ -2,13 +2,14 @@
 
 
 skills = [["Siła", 0], ["Zdrowie", 0], ["Mądrość", 0], ["Zwinność", 0]]
-skill_points = 2
+skill_points = 30
 
 ask_1 = None
 ask_2 = None
 menu = None
 print("\t\t\tKreator postaci")
-
+print("Masz 30 punktów do rozdania między: siłę, zdrowię, mądrość i zwinność")
+print("W każdej chwili możesz dodać, zmniejszyć lub po prostu sprawdzić wartość atrybutów")
 
 while menu != "0":
     print("""Wybierz co chcesz zrobić:
