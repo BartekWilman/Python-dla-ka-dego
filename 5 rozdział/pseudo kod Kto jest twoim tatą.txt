@@ -1,0 +1,18 @@
+objaśnienie działania programu
+zapytanie o to co chce zrobić użytkownik
+(wyświetlenie istniejących par, dodanie pary syn ojciec, wymieszanie pary syn ojciec, usunięcie pary syn ojciec)
+jeśli wyświetlenie par
+    pokazanie kolumny ojców i kolumn synów
+jeśli dodanie pary syn ojciec
+    zapytanie się o imię i nazwisko syna
+    przypisanie synowi ojca
+    nowo stworzoną parę dodanie do listy
+jeśli wymieszanie pary
+    zapytanie o którą parę chodzi
+    sprawdzenie czy taka para istnieje
+    zamiana kolejności ojciec syn
+    dodanie nowej pary w miejscu istniejącej
+jeśli usunięcie pary
+    zapytanie o którą parę chodzi
+    sprawdzenie czy taka para istnieje
+    usunięcie pary
