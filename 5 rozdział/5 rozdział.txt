@@ -1,0 +1,22 @@
+Pierwsze zadanie w tym rozdziale (losowa lista), polegało na wyświetleniu listy słów,
+w przypadkowej kolejności. Korzystając z mutowalności list, początkową lista
+jest stopniowo uszczuplana przez program w losowej kolejności i tworzona jest nowa,
+po czym wyświetlane są kolejno jej elementy.
+
+Następne zadanie (kreator postaci) polegało na stworzeniu kreatora postaci, w którym gracz
+ma możliwość wydania 30 punktów na dowolny atrybut, z możliwością odejmowania punktów.
+W tym programie pierwszy raz użyłem sekwencji zagnieżdżonych.
+Lista atrybutów składa się z mniejszych list w których są pojedyncze atrybuty i ich wartość.
+Te rozwiązanie wydawało się rozsądniejsze niż słownik, ponieważ pozwalało zachować kontrolę nad wartością atrybutów.
+Żaden z atrybutów nie przekraczał 30 punktów, czyli tylu ile mogliśmy spożytkować, ale żaden nie mógł spaść poniżej 0.
+
+Program (Kto jest twoim tatą), wprowadził kolejną zmianę, ponieważ pierwszy raz przed rozpoczęciem pisania kodu,
+napisałem najpierw pseudokod. Nauczony niechlujnością wyglądu kodu z poprzedniego zadania,
+wymusiłem na sobie pisanie bardziej przejrzystego programu, co wymagało przemyślanego podejścia do tematu.
+Postawiłem więc na projektowaniu najpierw pseudokodu, a kiedy jego składnia coraz bardziej zaczynała przypominać kod,
+rozpocząłem pisanie programu. Pseudokod również został udostępniony, chociaż nie pokrywa się do końca z finalnym programem.
+
+Ostatni program (Kto jest twoim tatą i dziadkiem). Program jest uboższy w porównaniu do poprzedniego,
+o możliwość wymieszania kolejności pokoleń w rodzie. Stało się tak ze względu na moją chęć wykorzystania słownika, 
+zamiast list, nad czym będę musiał solidniej popracować. Oprócz tej zmiany reszta możliwości jaką daję program 
+jest taka sama.
