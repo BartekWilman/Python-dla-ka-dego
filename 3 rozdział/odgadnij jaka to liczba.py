@@ -19,7 +19,7 @@ while odp != liczba and zycia > 1:
         print("więcej")
         zycia -= 1
 
-    elif zycia == 0:
+    elif zycia == 1:
         print("Straciłeś wszystkie szanse")
 
     odp = int(input("Ta liczba to: "))
